@@ -1,4 +1,4 @@
-package com.example.lucidelivery.ui.theme
+package com.example.lucidelivery.core.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
